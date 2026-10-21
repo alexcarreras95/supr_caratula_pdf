@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+windows/
+build/
+dist/
+*.spec
